@@ -1,0 +1,158 @@
+
+      date of purchase: 11/13/2026, 9:19:57 AM
+      amount paid: undefined,
+      Price per Oz: undefined,
+      gold sold: £undefined
+      --------------------------------
+
+      date of purchase: 11/13/2026, 9:20:55 AM
+      amount paid: 600,
+      Price per Oz: 200,
+      gold sold: £3
+      --------------------------------
+
+      date of purchase: 11/13/2026, 9:21:40 AM
+      amount paid: 7000,
+      Price per Oz: null,
+      gold sold: £null
+      --------------------------------
+
+      date of purchase: 11/13/2026, 9:21:44 AM
+      amount paid: 7000,
+      Price per Oz: 5000,
+      gold sold: £1.4
+      --------------------------------
+
+      date of purchase: 11/13/2026, 9:22:14 AM
+      amount paid: 7000,
+      Price per Oz: 39339,
+      gold sold: £0.17794046620402146
+      --------------------------------
+
+
+      date of purchase: 11/13/2026, 9:47:32 AM
+      amount paid: 700,
+      Price per Oz: 1000,
+      gold sold: £0.7
+      --------------------------------
+
+      date of purchase: 11/13/2026, 9:49:24 AM
+      amount paid: 700,
+      Price per Oz: 300,
+      gold sold: £2.3333333333333335
+      --------------------------------
+      
+      date of purchase: 11/13/2026, 9:49:29 AM
+      amount paid: 700,
+      Price per Oz: 200,
+      gold sold: £3.5
+      --------------------------------
+      
+      date of purchase: 11/13/2026, 9:49:32 AM
+      amount paid: 700,
+      Price per Oz: 3993,
+      gold sold: £0.1753067868770348
+      --------------------------------
+      
+      date of purchase: 11/13/2026, 10:17:21 AM
+      amount paid: 400,
+      Price per Oz: 200,
+      gold sold: £2
+      --------------------------------
+      
+      date of purchase: 11/13/2026, 10:19:25 AM
+      amount paid: 300,
+      Price per Oz: 200,
+      gold sold: £1.5
+      --------------------------------
+      
+      date of purchase: 11/13/2026, 10:35:00 AM
+      amount paid: 300,
+      Price per Oz: 300,
+      gold sold: £1
+      --------------------------------
+      
+      date of purchase: 11/13/2026, 10:37:21 AM
+      amount paid: 600,
+      Price per Oz: 200,
+      gold sold: £3
+      --------------------------------
+      
+      date of purchase: 11/13/2026, 10:43:00 AM
+      amount paid: 400,
+      Price per Oz: 200,
+      gold sold: £2
+      --------------------------------
+      
+      date of purchase: 11/13/2026, 10:43:12 AM
+      amount paid: 300,
+      Price per Oz: 300,
+      gold sold: £1
+      --------------------------------
+      
+      date of purchase: 11/13/2026, 10:43:22 AM
+      amount paid: 800,
+      Price per Oz: 3000,
+      gold sold: £0.26666666666666666
+      --------------------------------
+      
+      date of purchase: 11/13/2026, 10:48:52 AM
+      amount paid: 3,
+      Price per Oz: ,
+      gold sold: £
+      --------------------------------
+      
+      date of purchase: 11/13/2026, 10:48:56 AM
+      amount paid: 3,
+      Price per Oz: 300,
+      gold sold: £0.01
+      --------------------------------
+      
+      date of purchase: 11/13/2026, 10:50:45 AM
+      amount paid: 300,
+      Price per Oz: 200,
+      gold sold: £1.5
+      --------------------------------
+      
+      date of purchase: 11/13/2026, 10:55:48 AM
+      amount paid: 66,
+      Price per Oz: ,
+      gold sold: £
+      --------------------------------
+      
+      date of purchase: 11/13/2026, 10:56:33 AM
+      amount paid: 400,
+      Price per Oz: 500,
+      gold sold: £0.8
+      --------------------------------
+      
+      date of purchase: 11/13/2026, 10:57:37 AM
+      amount paid: 400,
+      Price per Oz: 3000,
+      gold sold: £0.13333333333333333
+      --------------------------------
+      
+      date of purchase: 11/13/2026, 10:58:08 AM
+      amount paid: 4000,
+      Price per Oz: 3993,
+      gold sold: £1.0017530678687703
+      --------------------------------
+      
+      date of purchase: 11/13/2026, 10:58:32 AM
+      amount paid: 500,
+      Price per Oz: 5000,
+      gold sold: £0.1
+      --------------------------------
+      
+      date of purchase: 11/13/2026, 11:04:10 AM
+      amount paid: 500,
+      Price per Oz: 200,
+      gold sold: £2.5
+      --------------------------------
+      
+      date of purchase: 11/13/2026, 11:04:23 AM
+      amount paid: 500,
+      Price per Oz: 5000,
+      gold sold: £0.1
+      --------------------------------
+      

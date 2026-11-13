@@ -1,0 +1,22 @@
+{
+  "name": "gold_digger_solo_project",
+  "version": "1.0.0",
+  "description": "a simple application that helps user buy gold based on current gold stock price that is updated within some amount of time ",
+  "license": "ISC",
+  "author": "bienose emmanuel",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "start",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "path": "^0.12.7",
+    "pdfkit": "^0.20.2",
+    "sanitize-html": "^2.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
